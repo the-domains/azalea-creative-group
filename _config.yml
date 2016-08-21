@@ -1,16 +1,16 @@
-typography_spectrum: 0.9423390217125416
+layout_spectrum: 0.2892979218158871
+typography_spectrum: 0.6629791317973286
 color:
-  brandStrength: 0.4353346994612366
-  lightness: 0.3177810152992606
-  saturation: 0.6849052195902914
-  rhythmicContrast: 0.6675885231234133
+  brandStrength: 0.9372824458405375
+  lightness: 0.26370190223678946
+  saturation: 0.5368868955411017
+  rhythmicContrast: 0.027835502987727523
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.35834907507523894
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 author:
   name: Aisha & Daniel Flores
   email: info@azaleacg.com
