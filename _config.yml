@@ -1,4 +1,3 @@
-layout_spectrum: 0.35834907507523894
 typography_spectrum: 0.9423390217125416
 color:
   brandStrength: 0.4353346994612366
@@ -11,4 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.35834907507523894
+author:
+  name: Aisha & Daniel Flores
+  email: info@azaleacg.com
+  url: www.azaleacreativegroup.com
 name: Azalea Creative Group
+title: From Bloom to Boom!
